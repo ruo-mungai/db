@@ -1,0 +1,22 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruo-mungai/db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruo-mungai/db/issues"
+  },
+  "homepage": "https://github.com/ruo-mungai/db#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
